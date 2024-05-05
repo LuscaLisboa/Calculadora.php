@@ -44,3 +44,33 @@ body, html {
     border-radius: 10px;
     height: 50px;
 }
+.container {
+    text-align: center;
+}
+
+button {
+    display: inline-block; 
+    padding: 10px 20px; 
+    margin: 5px; 
+    color: #ffffff; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer;
+    font-size: 16px; 
+}
+
+.btn-amarelo {
+    background-color: #F0E68C;
+}
+
+.btn-cinza {
+    background-color: gray;
+}
+
+.btn-azul {
+    background-color: blue;
+}
+
+.btn-azul {
+    background-color: blue; 
+}
